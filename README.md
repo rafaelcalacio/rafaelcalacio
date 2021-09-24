@@ -1,4 +1,4 @@
-### Olá! Eu sou o Rafael Calacio
+### Olá! Eu sou o Rafael Calacio :man_technologist:
 <div align="center">
   <a href="https://github.com/rafaelcalacio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelcalacio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
