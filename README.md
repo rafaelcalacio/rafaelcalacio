@@ -1,6 +1,20 @@
-### Olá! Eu sou o Rafael Calacio :man_technologist:
+## Hi! I am Rafael Calacio
 
-💻Graduado em Análise e Desenvolvimento de Sistemas
+#### :man_technologist:Graduado em Análise e Desenvolvimento de Sistemas(UNOPAR)
+#### :man_student:Estudando Engenharia de Software com Ênfase em Qualidade e Testes de Software(ANHANGUERA _LATO SENSU)
+##
+  </div>
+  <div align="center">
+  
+  ### Who am I?
+  
+  
+  </div>
+  
+  <div align="justify">
+  
+  My name is Rafael Calacio, and I am from Brazil. I graduated in Analisys and Systems Development, and I'm currently studing Software Engineering with an Emphasis on Software Quality and Software Testing in Anhanguera University. I am also learning development tools for programs languages in Alura School.
+  </div>
 
 
 <div align="center">
@@ -13,10 +27,10 @@
 <div style="display: inline_block"><br>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-     <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-   <img align="center" alt="Java" height="30" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
-   <img align="center" alt="Javascript" height="30" width="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
-  
+    <img align="center" alt="Javascript" height="30" width="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
+    <img align="center" alt="PHP" height="30" width="40" src="https://www.vectorlogo.zone/logos/php/php-icon.svg">
+    <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="Linux" height="30" width="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
 </div>
 
   ##
