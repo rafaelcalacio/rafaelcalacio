@@ -1,7 +1,7 @@
 ## Hi! I am Rafael Calacio
 
 #### :man_technologist:Graduado em Análise e Desenvolvimento de Sistemas(UNOPAR)
-#### :man_student:Estudando Engenharia de Software com Ênfase em Qualidade e Testes de Software(ANHANGUERA _LATO SENSU)
+#### :man_student:Pós-Graduado em Engenharia de Software com Ênfase em Qualidade e Testes de Software(ANHANGUERA _LATO SENSU)
 ##
   </div>
   <div align="center">
